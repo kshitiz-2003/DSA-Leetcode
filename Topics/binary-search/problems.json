@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-13T17:35:34.099Z",
+  "updatedAt": "2026-09-13T17:35:44.032Z",
   "problems": [
+    {
+      "frontendId": "240",
+      "title": "Search a 2D Matrix II",
+      "slug": "search-a-2d-matrix-ii",
+      "problemName": "0240-search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+      "folderPath": "0240-search-a-2d-matrix-ii/",
+      "readmePath": "0240-search-a-2d-matrix-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0240-search-a-2d-matrix-ii.cpp",
+          "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.cpp",
+          "sha": "644f599d3a6d244201e846da3b8efec51f527fb3",
+          "lastSyncedAt": "2026-09-13T17:35:44.032Z"
+        }
+      ]
+    },
     {
       "frontendId": "1901",
       "title": "Find a Peak Element II",
