@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-13T18:02:26.412Z",
+  "updatedAt": "2026-09-13T18:04:57.340Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0001-two-sum.cpp",
+          "path": "0001-two-sum/0001-two-sum.cpp",
+          "sha": "68bc2c9174ccf7de9245ec183cb35b1bed1f274a",
+          "lastSyncedAt": "2026-09-13T18:04:57.340Z"
+        }
+      ]
+    },
     {
       "frontendId": "4",
       "title": "Median of Two Sorted Arrays",
