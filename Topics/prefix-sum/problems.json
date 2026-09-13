@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-13T17:45:30.073Z",
+  "updatedAt": "2026-09-13T17:52:04.397Z",
   "problems": [
     {
       "frontendId": "410",
@@ -22,7 +22,7 @@
           "filename": "0410-split-array-largest-sum.cpp",
           "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.cpp",
           "sha": "5336308fadcc6ebb9b79d8b3c240fb9545229245",
-          "lastSyncedAt": "2026-09-13T17:45:30.073Z"
+          "lastSyncedAt": "2026-09-13T17:52:04.397Z"
         }
       ]
     }
