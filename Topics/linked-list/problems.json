@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-13T17:39:38.337Z",
+  "updatedAt": "2026-09-13T17:43:57.843Z",
   "problems": [
     {
       "frontendId": "141",
@@ -22,7 +22,7 @@
           "filename": "0141-linked-list-cycle.cpp",
           "path": "0141-linked-list-cycle/0141-linked-list-cycle.cpp",
           "sha": "f297acd86c1d7444fdb0c52c6ee0331bb3b20553",
-          "lastSyncedAt": "2026-09-13T17:38:49.926Z"
+          "lastSyncedAt": "2026-09-13T17:43:57.843Z"
         }
       ]
     },
