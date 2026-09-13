@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math"
+  },
+  "updatedAt": "2026-09-13T17:33:46.994Z",
+  "problems": [
+    {
+      "frontendId": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "problemName": "0013-roman-to-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+      "folderPath": "0013-roman-to-integer/",
+      "readmePath": "0013-roman-to-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0013-roman-to-integer.cpp",
+          "path": "0013-roman-to-integer/0013-roman-to-integer.cpp",
+          "sha": "1b857ea15c7bc03192574cc6ad2b207bbff52782",
+          "lastSyncedAt": "2026-09-13T17:33:46.994Z"
+        }
+      ]
+    }
+  ]
+}
