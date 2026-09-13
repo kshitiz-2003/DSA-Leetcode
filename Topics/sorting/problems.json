@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-13T17:34:35.933Z",
+  "updatedAt": "2026-09-13T17:39:16.150Z",
   "problems": [
     {
       "frontendId": "242",
@@ -42,7 +42,7 @@
           "filename": "0451-sort-characters-by-frequency.cpp",
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
           "sha": "b254957c460c62c618a57dae2c3169819e4efa57",
-          "lastSyncedAt": "2026-09-13T17:34:19.450Z"
+          "lastSyncedAt": "2026-09-13T17:39:16.150Z"
         }
       ]
     }
