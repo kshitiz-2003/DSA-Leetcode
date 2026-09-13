@@ -5,7 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 12 | 6 | 2 |
+| 21 | 13 | 6 | 2 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-10 | 1 |
 | 2026-09-11 | 1 |
 | 2026-09-12 | 3 |
-| 2026-09-13 | 2 |
+| 2026-09-13 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 10 | 50% |
-| Array | 7 | 35% |
-| Binary Search | 6 | 30% |
-| Hash Table | 5 | 25% |
-| Linked List | 4 | 20% |
-| Matrix | 3 | 15% |
-| Two Pointers | 3 | 15% |
+| String | 10 | 48% |
+| Array | 8 | 38% |
+| Binary Search | 6 | 29% |
+| Hash Table | 6 | 29% |
+| Linked List | 4 | 19% |
+| Matrix | 3 | 14% |
+| Two Pointers | 3 | 14% |
 | Bracket Sequences | 2 | 10% |
 | Divide and Conquer | 2 | 10% |
 | Greedy | 2 | 10% |
@@ -49,7 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 7 |
+| [Array](Topics/array/) | 8 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -63,7 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 5 |
+| [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
