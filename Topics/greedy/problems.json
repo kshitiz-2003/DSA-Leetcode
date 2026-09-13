@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-13T18:01:44.208Z",
+  "updatedAt": "2026-09-13T18:02:18.623Z",
   "problems": [
     {
       "frontendId": "410",
@@ -22,7 +22,7 @@
           "filename": "0410-split-array-largest-sum.cpp",
           "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.cpp",
           "sha": "5336308fadcc6ebb9b79d8b3c240fb9545229245",
-          "lastSyncedAt": "2026-09-13T17:52:23.661Z"
+          "lastSyncedAt": "2026-09-13T18:02:18.623Z"
         }
       ]
     },
