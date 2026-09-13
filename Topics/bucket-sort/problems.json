@@ -4,7 +4,7 @@
     "slug": "bucket-sort",
     "name": "Bucket Sort"
   },
-  "updatedAt": "2026-09-13T17:50:50.203Z",
+  "updatedAt": "2026-09-13T17:51:12.246Z",
   "problems": [
     {
       "frontendId": "451",
@@ -22,7 +22,7 @@
           "filename": "0451-sort-characters-by-frequency.cpp",
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
           "sha": "b254957c460c62c618a57dae2c3169819e4efa57",
-          "lastSyncedAt": "2026-09-13T17:50:50.203Z"
+          "lastSyncedAt": "2026-09-13T17:51:12.246Z"
         }
       ]
     }
