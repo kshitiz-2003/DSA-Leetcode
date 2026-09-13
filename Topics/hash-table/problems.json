@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-13T17:39:16.150Z",
+  "updatedAt": "2026-09-13T17:39:26.590Z",
   "problems": [
     {
       "frontendId": "13",
@@ -82,7 +82,7 @@
           "filename": "0242-valid-anagram.cpp",
           "path": "0242-valid-anagram/0242-valid-anagram.cpp",
           "sha": "0ffbe1db3f83ef6e36979ad8478208e45b023cb9",
-          "lastSyncedAt": "2026-09-13T17:34:35.933Z"
+          "lastSyncedAt": "2026-09-13T17:39:26.590Z"
         }
       ]
     },
