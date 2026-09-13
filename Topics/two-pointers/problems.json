@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-13T17:34:03.633Z",
+  "updatedAt": "2026-09-13T17:35:20.286Z",
   "problems": [
     {
       "frontendId": "141",
@@ -23,6 +23,26 @@
           "path": "0141-linked-list-cycle/0141-linked-list-cycle.cpp",
           "sha": "f297acd86c1d7444fdb0c52c6ee0331bb3b20553",
           "lastSyncedAt": "2026-09-13T17:33:33.578Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "151",
+      "title": "Reverse Words in a String",
+      "slug": "reverse-words-in-a-string",
+      "problemName": "0151-reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
+      "folderPath": "0151-reverse-words-in-a-string/",
+      "readmePath": "0151-reverse-words-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0151-reverse-words-in-a-string.cpp",
+          "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.cpp",
+          "sha": "ac055b64c1f9879673148eda62c0184821df7c88",
+          "lastSyncedAt": "2026-09-13T17:35:20.286Z"
         }
       ]
     },
