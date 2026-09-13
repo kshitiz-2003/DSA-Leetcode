@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-13T17:44:05.898Z",
+  "updatedAt": "2026-09-13T17:44:18.800Z",
   "problems": [
     {
       "frontendId": "13",
@@ -182,7 +182,7 @@
           "filename": "1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "sha": "9ddeacda658b222ed4f23d41dfce2b9d48cacf47",
-          "lastSyncedAt": "2026-09-13T17:39:10.125Z"
+          "lastSyncedAt": "2026-09-13T17:44:18.800Z"
         }
       ]
     },
