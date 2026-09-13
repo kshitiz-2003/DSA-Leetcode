@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-13T17:44:18.800Z",
+  "updatedAt": "2026-09-13T17:45:01.191Z",
   "problems": [
     {
       "frontendId": "1021",
@@ -22,7 +22,7 @@
           "filename": "1021-remove-outermost-parentheses.cpp",
           "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
           "sha": "cd625f60659b76a2bc94d73bf3b74c41617d1d7f",
-          "lastSyncedAt": "2026-09-13T17:39:55.489Z"
+          "lastSyncedAt": "2026-09-13T17:45:01.191Z"
         }
       ]
     },
