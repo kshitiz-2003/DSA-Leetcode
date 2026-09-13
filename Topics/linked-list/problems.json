@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-13T18:01:00.900Z",
+  "updatedAt": "2026-09-13T18:01:04.807Z",
   "problems": [
     {
       "frontendId": "141",
@@ -82,7 +82,7 @@
           "filename": "0876-middle-of-the-linked-list.cpp",
           "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.cpp",
           "sha": "af4d8299acc0c872fa8f4df75f7de2d7c6a7a14a",
-          "lastSyncedAt": "2026-09-13T17:50:41.934Z"
+          "lastSyncedAt": "2026-09-13T18:01:04.807Z"
         }
       ]
     }
