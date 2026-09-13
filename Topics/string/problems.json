@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-13T17:39:26.590Z",
+  "updatedAt": "2026-09-13T17:39:31.580Z",
   "problems": [
     {
       "frontendId": "13",
@@ -142,7 +142,7 @@
           "filename": "0796-rotate-string.cpp",
           "path": "0796-rotate-string/0796-rotate-string.cpp",
           "sha": "74128e9e0355dbc9e30f6d20200c96f70cd40a21",
-          "lastSyncedAt": "2026-09-13T17:34:43.469Z"
+          "lastSyncedAt": "2026-09-13T17:39:31.580Z"
         }
       ]
     },
