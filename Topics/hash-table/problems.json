@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-13T17:34:19.450Z",
+  "updatedAt": "2026-09-13T17:34:35.933Z",
   "problems": [
     {
       "frontendId": "13",
@@ -43,6 +43,26 @@
           "path": "0141-linked-list-cycle/0141-linked-list-cycle.cpp",
           "sha": "f297acd86c1d7444fdb0c52c6ee0331bb3b20553",
           "lastSyncedAt": "2026-09-13T17:33:33.578Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0242-valid-anagram.cpp",
+          "path": "0242-valid-anagram/0242-valid-anagram.cpp",
+          "sha": "0ffbe1db3f83ef6e36979ad8478208e45b023cb9",
+          "lastSyncedAt": "2026-09-13T17:34:35.933Z"
         }
       ]
     },
