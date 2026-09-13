@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-13T18:02:08.471Z",
+  "updatedAt": "2026-09-13T18:02:13.780Z",
   "problems": [
     {
       "frontendId": "4",
@@ -22,7 +22,7 @@
           "filename": "0004-median-of-two-sorted-arrays.cpp",
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "804e142782d42e5c619943eaef5c4e310f499509",
-          "lastSyncedAt": "2026-09-13T17:52:19.716Z"
+          "lastSyncedAt": "2026-09-13T18:02:13.780Z"
         }
       ]
     },
