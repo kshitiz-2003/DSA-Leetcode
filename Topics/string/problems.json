@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-13T17:39:46.240Z",
+  "updatedAt": "2026-09-13T17:39:51.553Z",
   "problems": [
     {
       "frontendId": "13",
@@ -62,7 +62,7 @@
           "filename": "0151-reverse-words-in-a-string.cpp",
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.cpp",
           "sha": "ac055b64c1f9879673148eda62c0184821df7c88",
-          "lastSyncedAt": "2026-09-13T17:35:20.286Z"
+          "lastSyncedAt": "2026-09-13T17:39:51.553Z"
         }
       ]
     },
