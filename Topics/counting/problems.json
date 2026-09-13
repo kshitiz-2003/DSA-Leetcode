@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-13T17:39:16.150Z",
+  "updatedAt": "2026-09-13T17:44:24.228Z",
   "problems": [
     {
       "frontendId": "451",
@@ -22,7 +22,7 @@
           "filename": "0451-sort-characters-by-frequency.cpp",
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
           "sha": "b254957c460c62c618a57dae2c3169819e4efa57",
-          "lastSyncedAt": "2026-09-13T17:39:16.150Z"
+          "lastSyncedAt": "2026-09-13T17:44:24.228Z"
         }
       ]
     }
