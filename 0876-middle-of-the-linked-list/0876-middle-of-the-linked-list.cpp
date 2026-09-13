@@ -11,13 +11,21 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        // Optimal Approach : Tortoise and hare algorithm of using slow and fast ponter
-        ListNode* slow=head;
-        ListNode* fast=head;
-        while(fast!=NULL && fast->next!=NULL){
-            slow=slow->next;
-            fast=fast->next->next;
+        // brute force using count variable
+        ListNode* temp=head;
+        int cnt=0;
+        while(temp!=NULL){
+            cnt++;
+            temp=temp->next;
         }
-        return slow;
+        int middleNode=(cnt/2)+1;
+        temp=head;
+        cnt=0;
+        while(temp!=NULL){
+            cnt++;
+            if(cnt==middleNode) return temp;
+            temp=temp->next;
+        }
+        return temp;
     }
 };
