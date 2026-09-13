@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-13T17:43:57.843Z",
+  "updatedAt": "2026-09-13T17:44:15.425Z",
   "problems": [
     {
       "frontendId": "141",
@@ -62,7 +62,7 @@
           "filename": "0876-middle-of-the-linked-list.cpp",
           "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.cpp",
           "sha": "af4d8299acc0c872fa8f4df75f7de2d7c6a7a14a",
-          "lastSyncedAt": "2026-09-13T17:39:06.919Z"
+          "lastSyncedAt": "2026-09-13T17:44:15.425Z"
         }
       ]
     }
