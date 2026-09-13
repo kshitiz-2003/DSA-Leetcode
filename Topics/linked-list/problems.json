@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-13T18:09:28.130Z",
+  "updatedAt": "2026-09-13T18:10:00.146Z",
   "problems": [
     {
       "frontendId": "141",
@@ -62,7 +62,7 @@
           "filename": "0237-delete-node-in-a-linked-list.cpp",
           "path": "0237-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.cpp",
           "sha": "52eec30603224711b502ecdaaa2c1fcf51a243c2",
-          "lastSyncedAt": "2026-09-13T18:01:36.537Z"
+          "lastSyncedAt": "2026-09-13T18:10:00.146Z"
         }
       ]
     },
