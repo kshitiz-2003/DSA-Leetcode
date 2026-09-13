@@ -5,13 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 13 | 6 | 2 |
+| 20 | 12 | 6 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 14 days | 14 days | 15 |
+| 14 days | 14 days | 14 |
 
 | Date | Problems |
 | --- | ---: |
@@ -34,13 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 10 | 48% |
-| Array | 8 | 38% |
-| Binary Search | 6 | 29% |
-| Hash Table | 6 | 29% |
-| Linked List | 4 | 19% |
-| Matrix | 3 | 14% |
-| Two Pointers | 3 | 14% |
+| String | 10 | 50% |
+| Array | 7 | 35% |
+| Hash Table | 6 | 30% |
+| Binary Search | 5 | 25% |
+| Linked List | 4 | 20% |
+| Matrix | 3 | 15% |
+| Two Pointers | 3 | 15% |
 | Bracket Sequences | 2 | 10% |
 | Divide and Conquer | 2 | 10% |
 | Greedy | 2 | 10% |
