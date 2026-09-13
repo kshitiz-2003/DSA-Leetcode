@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-13T18:02:18.623Z",
+  "updatedAt": "2026-09-13T18:02:26.412Z",
   "problems": [
     {
       "frontendId": "4",
@@ -122,7 +122,7 @@
           "filename": "1539-kth-missing-positive-number.cpp",
           "path": "1539-kth-missing-positive-number/1539-kth-missing-positive-number.cpp",
           "sha": "d99d48b4b758ea581c94db1e3509aaf1abd8caf5",
-          "lastSyncedAt": "2026-09-13T17:52:31.465Z"
+          "lastSyncedAt": "2026-09-13T18:02:26.412Z"
         }
       ]
     },
