@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-13T17:35:01.330Z",
+  "updatedAt": "2026-09-13T17:35:34.099Z",
   "problems": [
     {
       "frontendId": "14",
@@ -23,6 +23,26 @@
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.cpp",
           "sha": "1de5b3f11be6d5bbec97eef269857904af6009d7",
           "lastSyncedAt": "2026-09-13T17:35:01.330Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1901",
+      "title": "Find a Peak Element II",
+      "slug": "find-a-peak-element-ii",
+      "problemName": "1901-find-a-peak-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-peak-element-ii/",
+      "folderPath": "1901-find-a-peak-element-ii/",
+      "readmePath": "1901-find-a-peak-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1901-find-a-peak-element-ii.cpp",
+          "path": "1901-find-a-peak-element-ii/1901-find-a-peak-element-ii.cpp",
+          "sha": "ead251e9b4e717904362add9e380975d44fc6f94",
+          "lastSyncedAt": "2026-09-13T17:35:34.099Z"
         }
       ]
     }
