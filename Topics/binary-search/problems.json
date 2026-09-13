@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-13T17:36:01.439Z",
+  "updatedAt": "2026-09-13T17:36:08.698Z",
   "problems": [
     {
       "frontendId": "4",
@@ -63,6 +63,26 @@
           "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.cpp",
           "sha": "644f599d3a6d244201e846da3b8efec51f527fb3",
           "lastSyncedAt": "2026-09-13T17:35:44.032Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "410",
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "problemName": "0410-split-array-largest-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+      "folderPath": "0410-split-array-largest-sum/",
+      "readmePath": "0410-split-array-largest-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0410-split-array-largest-sum.cpp",
+          "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.cpp",
+          "sha": "5336308fadcc6ebb9b79d8b3c240fb9545229245",
+          "lastSyncedAt": "2026-09-13T17:36:08.698Z"
         }
       ]
     },
