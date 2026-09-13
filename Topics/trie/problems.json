@@ -4,7 +4,7 @@
     "slug": "trie",
     "name": "Trie"
   },
-  "updatedAt": "2026-09-13T17:44:47.883Z",
+  "updatedAt": "2026-09-13T17:51:15.099Z",
   "problems": [
     {
       "frontendId": "14",
@@ -22,7 +22,7 @@
           "filename": "0014-longest-common-prefix.cpp",
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.cpp",
           "sha": "1de5b3f11be6d5bbec97eef269857904af6009d7",
-          "lastSyncedAt": "2026-09-13T17:44:47.883Z"
+          "lastSyncedAt": "2026-09-13T17:51:15.099Z"
         }
       ]
     }
