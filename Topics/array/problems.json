@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-13T17:45:05.698Z",
+  "updatedAt": "2026-09-13T17:45:11.963Z",
   "problems": [
     {
       "frontendId": "4",
@@ -82,7 +82,7 @@
           "filename": "0240-search-a-2d-matrix-ii.cpp",
           "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.cpp",
           "sha": "644f599d3a6d244201e846da3b8efec51f527fb3",
-          "lastSyncedAt": "2026-09-13T17:40:05.978Z"
+          "lastSyncedAt": "2026-09-13T17:45:11.963Z"
         }
       ]
     },
