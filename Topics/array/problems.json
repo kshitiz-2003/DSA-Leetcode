@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-13T17:52:31.465Z",
+  "updatedAt": "2026-09-13T18:01:38.789Z",
   "problems": [
     {
       "frontendId": "4",
@@ -42,7 +42,7 @@
           "filename": "0014-longest-common-prefix.cpp",
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.cpp",
           "sha": "1de5b3f11be6d5bbec97eef269857904af6009d7",
-          "lastSyncedAt": "2026-09-13T17:51:40.155Z"
+          "lastSyncedAt": "2026-09-13T18:01:38.789Z"
         }
       ]
     },
