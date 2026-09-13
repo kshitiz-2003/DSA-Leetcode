@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-13T18:10:12.025Z",
+  "updatedAt": "2026-09-13T18:10:15.390Z",
   "problems": [
     {
       "frontendId": "13",
@@ -162,7 +162,7 @@
           "filename": "1021-remove-outermost-parentheses.cpp",
           "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
           "sha": "cd625f60659b76a2bc94d73bf3b74c41617d1d7f",
-          "lastSyncedAt": "2026-09-13T18:01:52.619Z"
+          "lastSyncedAt": "2026-09-13T18:10:15.390Z"
         }
       ]
     },
