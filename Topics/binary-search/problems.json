@@ -4,6 +4,27 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-13T17:33:20.200Z",
-  "problems": []
+  "updatedAt": "2026-09-13T17:35:34.099Z",
+  "problems": [
+    {
+      "frontendId": "1901",
+      "title": "Find a Peak Element II",
+      "slug": "find-a-peak-element-ii",
+      "problemName": "1901-find-a-peak-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-peak-element-ii/",
+      "folderPath": "1901-find-a-peak-element-ii/",
+      "readmePath": "1901-find-a-peak-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1901-find-a-peak-element-ii.cpp",
+          "path": "1901-find-a-peak-element-ii/1901-find-a-peak-element-ii.cpp",
+          "sha": "ead251e9b4e717904362add9e380975d44fc6f94",
+          "lastSyncedAt": "2026-09-13T17:35:34.099Z"
+        }
+      ]
+    }
+  ]
 }
