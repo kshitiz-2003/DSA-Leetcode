@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-13T17:39:35.051Z",
+  "updatedAt": "2026-09-13T17:39:40.812Z",
   "problems": [
     {
       "frontendId": "13",
@@ -42,7 +42,7 @@
           "filename": "0014-longest-common-prefix.cpp",
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.cpp",
           "sha": "1de5b3f11be6d5bbec97eef269857904af6009d7",
-          "lastSyncedAt": "2026-09-13T17:35:01.330Z"
+          "lastSyncedAt": "2026-09-13T17:39:40.812Z"
         }
       ]
     },
