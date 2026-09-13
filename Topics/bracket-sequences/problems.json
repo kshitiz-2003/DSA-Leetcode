@@ -4,8 +4,28 @@
     "slug": "bracket-sequences",
     "name": "Bracket Sequences"
   },
-  "updatedAt": "2026-09-13T17:34:09.779Z",
+  "updatedAt": "2026-09-13T17:35:26.113Z",
   "problems": [
+    {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "problemName": "1021-remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "folderPath": "1021-remove-outermost-parentheses/",
+      "readmePath": "1021-remove-outermost-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1021-remove-outermost-parentheses.cpp",
+          "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
+          "sha": "cd625f60659b76a2bc94d73bf3b74c41617d1d7f",
+          "lastSyncedAt": "2026-09-13T17:35:26.113Z"
+        }
+      ]
+    },
     {
       "frontendId": "1614",
       "title": "Maximum Nesting Depth of the Parentheses",
