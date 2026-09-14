@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-14T11:25:06.726Z",
+  "updatedAt": "2026-09-14T11:25:21.442Z",
   "problems": [
     {
       "frontendId": "8",
@@ -42,7 +42,7 @@
           "filename": "0013-roman-to-integer.cpp",
           "path": "0013-roman-to-integer/0013-roman-to-integer.cpp",
           "sha": "1b857ea15c7bc03192574cc6ad2b207bbff52782",
-          "lastSyncedAt": "2026-09-14T11:17:04.906Z"
+          "lastSyncedAt": "2026-09-14T11:25:21.442Z"
         }
       ]
     },
