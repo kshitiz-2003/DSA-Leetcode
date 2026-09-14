@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-14T11:29:39.182Z",
+  "updatedAt": "2026-09-14T11:29:57.816Z",
   "problems": [
     {
       "frontendId": "1",
@@ -122,7 +122,7 @@
           "filename": "0451-sort-characters-by-frequency.cpp",
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
           "sha": "b254957c460c62c618a57dae2c3169819e4efa57",
-          "lastSyncedAt": "2026-09-14T11:25:39.853Z"
+          "lastSyncedAt": "2026-09-14T11:29:57.816Z"
         }
       ]
     }
