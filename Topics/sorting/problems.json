@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-14T11:45:24.294Z",
+  "updatedAt": "2026-09-14T11:45:36.225Z",
   "problems": [
     {
       "frontendId": "242",
@@ -22,7 +22,7 @@
           "filename": "0242-valid-anagram.cpp",
           "path": "0242-valid-anagram/0242-valid-anagram.cpp",
           "sha": "0ffbe1db3f83ef6e36979ad8478208e45b023cb9",
-          "lastSyncedAt": "2026-09-14T11:30:09.205Z"
+          "lastSyncedAt": "2026-09-14T11:45:36.225Z"
         }
       ]
     },
