@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 12 | 7 | 1 |
+| 20 | 12 | 8 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 14 days | 14 days | 14 |
+| 13 days | 13 days | 13 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-01 | 1 |
 | 2026-09-02 | 2 |
 | 2026-09-03 | 1 |
 | 2026-09-04 | 1 |
@@ -28,22 +27,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-11 | 1 |
 | 2026-09-12 | 3 |
 | 2026-09-13 | 3 |
-| 2026-09-14 | 1 |
+| 2026-09-14 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | String | 11 | 55% |
-| Array | 6 | 30% |
 | Hash Table | 6 | 30% |
-| Binary Search | 4 | 20% |
+| Array | 5 | 25% |
 | Linked List | 4 | 20% |
+| Binary Search | 3 | 15% |
+| Math | 3 | 15% |
 | Matrix | 3 | 15% |
 | Two Pointers | 3 | 15% |
 | Bracket Sequences | 2 | 10% |
-| Divide and Conquer | 2 | 10% |
-| Math | 2 | 10% |
+| Sorting | 2 | 10% |
 
 ## Topics
 
@@ -67,7 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 2 |
+| [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
