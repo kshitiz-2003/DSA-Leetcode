@@ -5,7 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 12 | 8 | 0 |
+| 21 | 12 | 9 | 0 |
 
 ## Activity
 
@@ -27,22 +27,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-11 | 1 |
 | 2026-09-12 | 3 |
 | 2026-09-13 | 3 |
-| 2026-09-14 | 2 |
+| 2026-09-14 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 11 | 55% |
-| Hash Table | 6 | 30% |
-| Array | 5 | 25% |
-| Linked List | 4 | 20% |
-| Binary Search | 3 | 15% |
-| Math | 3 | 15% |
-| Matrix | 3 | 15% |
-| Two Pointers | 3 | 15% |
+| String | 11 | 52% |
+| Hash Table | 7 | 33% |
+| Array | 5 | 24% |
+| Linked List | 5 | 24% |
+| Two Pointers | 4 | 19% |
+| Binary Search | 3 | 14% |
+| Math | 3 | 14% |
+| Matrix | 3 | 14% |
 | Bracket Sequences | 2 | 10% |
-| Sorting | 2 | 10% |
+| Floyd's Cycle Finding Algorithm | 2 | 10% |
 
 ## Topics
 
@@ -59,13 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
-| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 4 |
+| [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
@@ -75,7 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [String](Topics/string/) | 11 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
