@@ -5,7 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 12 | 6 | 2 |
+| 20 | 12 | 7 | 1 |
 
 ## Activity
 
@@ -15,7 +15,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-31 | 1 |
 | 2026-09-01 | 1 |
 | 2026-09-02 | 2 |
 | 2026-09-03 | 1 |
@@ -29,21 +28,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-11 | 1 |
 | 2026-09-12 | 3 |
 | 2026-09-13 | 3 |
+| 2026-09-14 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 10 | 50% |
-| Array | 7 | 35% |
+| String | 11 | 55% |
+| Array | 6 | 30% |
 | Hash Table | 6 | 30% |
-| Binary Search | 5 | 25% |
+| Binary Search | 4 | 20% |
 | Linked List | 4 | 20% |
 | Matrix | 3 | 15% |
 | Two Pointers | 3 | 15% |
 | Bracket Sequences | 2 | 10% |
 | Divide and Conquer | 2 | 10% |
-| Greedy | 2 | 10% |
+| Math | 2 | 10% |
 
 ## Topics
 
@@ -73,7 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Recursion](Topics/recursion/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 10 |
+| [String](Topics/string/) | 11 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
