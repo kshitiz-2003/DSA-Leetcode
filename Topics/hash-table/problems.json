@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-14T11:15:21.894Z",
+  "updatedAt": "2026-09-14T11:15:33.260Z",
   "problems": [
     {
       "frontendId": "1",
@@ -82,7 +82,7 @@
           "filename": "0205-isomorphic-strings.cpp",
           "path": "0205-isomorphic-strings/0205-isomorphic-strings.cpp",
           "sha": "885f5df96cdd1770b31062c4cc715a20a71cffde",
-          "lastSyncedAt": "2026-09-13T18:09:57.081Z"
+          "lastSyncedAt": "2026-09-14T11:15:33.260Z"
         }
       ]
     },
