@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-14T11:45:14.822Z",
+  "updatedAt": "2026-09-14T11:46:03.245Z",
   "problems": [
     {
       "frontendId": "141",
@@ -42,7 +42,7 @@
           "filename": "0151-reverse-words-in-a-string.cpp",
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.cpp",
           "sha": "ac055b64c1f9879673148eda62c0184821df7c88",
-          "lastSyncedAt": "2026-09-14T11:30:36.411Z"
+          "lastSyncedAt": "2026-09-14T11:46:03.245Z"
         }
       ]
     },
