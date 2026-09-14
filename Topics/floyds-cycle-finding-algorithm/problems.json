@@ -4,7 +4,7 @@
     "slug": "floyds-cycle-finding-algorithm",
     "name": "Floyd's Cycle Finding Algorithm"
   },
-  "updatedAt": "2026-09-14T11:44:55.728Z",
+  "updatedAt": "2026-09-14T13:12:37.811Z",
   "problems": [
     {
       "frontendId": "141",
@@ -23,6 +23,26 @@
           "path": "0141-linked-list-cycle/0141-linked-list-cycle.cpp",
           "sha": "f297acd86c1d7444fdb0c52c6ee0331bb3b20553",
           "lastSyncedAt": "2026-09-14T11:44:55.728Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "0142-linked-list-cycle-ii/",
+      "readmePath": "0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0142-linked-list-cycle-ii.cpp",
+          "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.cpp",
+          "sha": "e794afbf38169b7ebc78c37b65bc8aed25e4de21",
+          "lastSyncedAt": "2026-09-14T13:12:37.811Z"
         }
       ]
     }
