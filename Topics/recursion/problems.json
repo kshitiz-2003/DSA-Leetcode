@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-14T11:17:10.231Z",
+  "updatedAt": "2026-09-14T11:25:27.309Z",
   "problems": [
     {
       "frontendId": "206",
@@ -22,7 +22,7 @@
           "filename": "0206-reverse-linked-list.cpp",
           "path": "0206-reverse-linked-list/0206-reverse-linked-list.cpp",
           "sha": "13b78d71e20b15411f893598b90d379c91f8a166",
-          "lastSyncedAt": "2026-09-14T11:17:10.231Z"
+          "lastSyncedAt": "2026-09-14T11:25:27.309Z"
         }
       ]
     }
