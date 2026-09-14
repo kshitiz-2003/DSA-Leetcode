@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-14T11:29:27.844Z",
+  "updatedAt": "2026-09-14T11:29:32.117Z",
   "problems": [
     {
       "frontendId": "1",
@@ -62,7 +62,7 @@
           "filename": "0141-linked-list-cycle.cpp",
           "path": "0141-linked-list-cycle/0141-linked-list-cycle.cpp",
           "sha": "f297acd86c1d7444fdb0c52c6ee0331bb3b20553",
-          "lastSyncedAt": "2026-09-14T11:25:13.999Z"
+          "lastSyncedAt": "2026-09-14T11:29:32.117Z"
         }
       ]
     },
