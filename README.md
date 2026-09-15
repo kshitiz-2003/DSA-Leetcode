@@ -5,13 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 12 | 9 | 0 |
+| 22 | 12 | 10 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 13 days | 13 days | 13 |
+| 14 days | 14 days | 14 |
 
 | Date | Problems |
 | --- | ---: |
@@ -28,21 +28,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-12 | 3 |
 | 2026-09-13 | 3 |
 | 2026-09-14 | 3 |
+| 2026-09-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 11 | 52% |
-| Hash Table | 7 | 33% |
-| Array | 5 | 24% |
-| Linked List | 5 | 24% |
-| Two Pointers | 4 | 19% |
+| String | 12 | 55% |
+| Hash Table | 7 | 32% |
+| Array | 5 | 23% |
+| Linked List | 5 | 23% |
+| Two Pointers | 5 | 23% |
 | Binary Search | 3 | 14% |
 | Math | 3 | 14% |
 | Matrix | 3 | 14% |
-| Bracket Sequences | 2 | 10% |
-| Floyd's Cycle Finding Algorithm | 2 | 10% |
+| Bracket Sequences | 2 | 9% |
+| Floyd's Cycle Finding Algorithm | 2 | 9% |
 
 ## Topics
 
@@ -58,7 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
@@ -66,16 +67,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
+| [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 11 |
+| [String](Topics/string/) | 12 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 4 |
+| [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
