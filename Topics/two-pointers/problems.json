@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-15T09:51:18.557Z",
+  "updatedAt": "2026-09-16T10:15:53.069Z",
   "problems": [
     {
       "frontendId": "5",
@@ -83,6 +83,26 @@
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.cpp",
           "sha": "ac055b64c1f9879673148eda62c0184821df7c88",
           "lastSyncedAt": "2026-09-14T11:46:03.245Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "0234-palindrome-linked-list/",
+      "readmePath": "0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0234-palindrome-linked-list.cpp",
+          "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
+          "sha": "0df6a0c52bfaf07abb4a6771ab3ce57444cb2fd6",
+          "lastSyncedAt": "2026-09-16T10:15:53.069Z"
         }
       ]
     },
