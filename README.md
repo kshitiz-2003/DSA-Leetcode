@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 12 | 10 | 0 |
+| 23 | 13 | 10 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 14 days | 14 days | 14 |
+| 15 days | 15 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-02 | 2 |
 | 2026-09-03 | 1 |
 | 2026-09-04 | 1 |
 | 2026-09-05 | 1 |
@@ -29,21 +28,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-13 | 3 |
 | 2026-09-14 | 3 |
 | 2026-09-15 | 1 |
+| 2026-09-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 12 | 55% |
-| Hash Table | 7 | 32% |
-| Array | 5 | 23% |
-| Linked List | 5 | 23% |
-| Two Pointers | 5 | 23% |
-| Binary Search | 3 | 14% |
-| Math | 3 | 14% |
-| Matrix | 3 | 14% |
+| String | 12 | 52% |
+| Hash Table | 7 | 30% |
+| Linked List | 6 | 26% |
+| Two Pointers | 6 | 26% |
+| Array | 5 | 22% |
+| Binary Search | 3 | 13% |
+| Math | 3 | 13% |
+| Matrix | 3 | 13% |
+| Stack | 3 | 13% |
 | Bracket Sequences | 2 | 9% |
-| Floyd's Cycle Finding Algorithm | 2 | 9% |
 
 ## Topics
 
@@ -66,18 +66,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 5 |
+| [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
-| [Recursion](Topics/recursion/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
 | [Sorting](Topics/sorting/) | 2 |
-| [Stack](Topics/stack/) | 2 |
+| [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 12 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
