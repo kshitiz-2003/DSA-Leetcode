@@ -5,7 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 13 | 11 | 0 |
+| 25 | 13 | 12 | 0 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-14 | 3 |
 | 2026-09-15 | 1 |
 | 2026-09-16 | 1 |
-| 2026-09-17 | 1 |
+| 2026-09-17 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 12 | 50% |
-| Hash Table | 7 | 29% |
-| Linked List | 7 | 29% |
-| Two Pointers | 6 | 25% |
-| Array | 5 | 21% |
-| Binary Search | 3 | 13% |
-| Math | 3 | 13% |
-| Matrix | 3 | 13% |
-| Stack | 3 | 13% |
+| String | 13 | 52% |
+| Hash Table | 8 | 32% |
+| Linked List | 7 | 28% |
+| Two Pointers | 6 | 24% |
+| Array | 5 | 20% |
+| Binary Search | 3 | 12% |
+| Math | 3 | 12% |
+| Matrix | 3 | 12% |
+| Stack | 3 | 12% |
 | Bracket Sequences | 2 | 8% |
 
 ## Topics
@@ -56,14 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
-| [Counting](Topics/counting/) | 1 |
+| [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 7 |
@@ -74,7 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Recursion](Topics/recursion/) | 2 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 12 |
+| [String](Topics/string/) | 13 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
