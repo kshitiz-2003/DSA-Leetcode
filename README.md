@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 13 | 10 | 0 |
+| 24 | 13 | 11 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 15 days | 15 days | 15 |
+| 16 days | 16 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-03 | 1 |
 | 2026-09-04 | 1 |
 | 2026-09-05 | 1 |
 | 2026-09-06 | 1 |
@@ -29,21 +28,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-14 | 3 |
 | 2026-09-15 | 1 |
 | 2026-09-16 | 1 |
+| 2026-09-17 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 12 | 52% |
-| Hash Table | 7 | 30% |
-| Linked List | 6 | 26% |
-| Two Pointers | 6 | 26% |
-| Array | 5 | 22% |
+| String | 12 | 50% |
+| Hash Table | 7 | 29% |
+| Linked List | 7 | 29% |
+| Two Pointers | 6 | 25% |
+| Array | 5 | 21% |
 | Binary Search | 3 | 13% |
 | Math | 3 | 13% |
 | Matrix | 3 | 13% |
 | Stack | 3 | 13% |
-| Bracket Sequences | 2 | 9% |
+| Bracket Sequences | 2 | 8% |
 
 ## Topics
 
@@ -66,7 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 6 |
+| [Linked List](Topics/linked-list/) | 7 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 3 |
