@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-14T11:45:24.294Z",
+  "updatedAt": "2026-09-17T10:36:36.916Z",
   "problems": [
     {
       "frontendId": "451",
@@ -23,6 +23,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
           "sha": "b254957c460c62c618a57dae2c3169819e4efa57",
           "lastSyncedAt": "2026-09-14T11:45:24.294Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1781",
+      "title": "Sum of Beauty of All Substrings",
+      "slug": "sum-of-beauty-of-all-substrings",
+      "problemName": "1781-sum-of-beauty-of-all-substrings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
+      "folderPath": "1781-sum-of-beauty-of-all-substrings/",
+      "readmePath": "1781-sum-of-beauty-of-all-substrings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1781-sum-of-beauty-of-all-substrings.cpp",
+          "path": "1781-sum-of-beauty-of-all-substrings/1781-sum-of-beauty-of-all-substrings.cpp",
+          "sha": "a62cf8f2b58e9f89061e05134875ca699d0339a8",
+          "lastSyncedAt": "2026-09-17T10:36:36.916Z"
         }
       ]
     }
