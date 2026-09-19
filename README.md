@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 26 | 13 | 13 | 0 |
+| 27 | 13 | 14 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 17 days | 17 days | 17 |
+| 18 days | 18 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-05 | 1 |
 | 2026-09-06 | 1 |
 | 2026-09-07 | 1 |
 | 2026-09-08 | 2 |
@@ -29,21 +28,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-16 | 1 |
 | 2026-09-17 | 2 |
 | 2026-09-18 | 1 |
+| 2026-09-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 13 | 50% |
-| Hash Table | 8 | 31% |
-| Linked List | 8 | 31% |
-| Two Pointers | 7 | 27% |
+| String | 13 | 48% |
+| Linked List | 9 | 33% |
+| Hash Table | 8 | 30% |
+| Two Pointers | 8 | 30% |
 | Array | 5 | 19% |
-| Binary Search | 3 | 12% |
-| Math | 3 | 12% |
-| Matrix | 3 | 12% |
-| Stack | 3 | 12% |
-| Bracket Sequences | 2 | 8% |
+| Binary Search | 3 | 11% |
+| Math | 3 | 11% |
+| Matrix | 3 | 11% |
+| Stack | 3 | 11% |
+| Bracket Sequences | 2 | 7% |
 
 ## Topics
 
@@ -66,7 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Hash Table](Topics/hash-table/) | 8 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 8 |
+| [Linked List](Topics/linked-list/) | 9 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 3 |
@@ -77,7 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [String](Topics/string/) | 13 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 7 |
+| [Two Pointers](Topics/two-pointers/) | 8 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
