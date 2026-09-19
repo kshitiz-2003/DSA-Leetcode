@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-19T07:23:07.396Z",
+  "updatedAt": "2026-09-19T08:08:28.374Z",
   "problems": [
     {
       "frontendId": "19",
@@ -182,7 +182,7 @@
           "filename": "2095-delete-the-middle-node-of-a-linked-list.cpp",
           "path": "2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.cpp",
           "sha": "8e29d72e27a4eb1d15206b1c3fbbb05426946317",
-          "lastSyncedAt": "2026-09-19T07:23:07.396Z"
+          "lastSyncedAt": "2026-09-19T08:08:28.374Z"
         }
       ]
     }
