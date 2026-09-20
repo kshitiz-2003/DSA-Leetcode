@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-14T11:45:36.225Z",
+  "updatedAt": "2026-09-20T06:09:16.192Z",
   "problems": [
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0148-sort-list.cpp",
+          "path": "0148-sort-list/0148-sort-list.cpp",
+          "sha": "af953d6822cf8acab4cc2dc4537d3f682fa4ddb5",
+          "lastSyncedAt": "2026-09-20T06:09:16.192Z"
+        }
+      ]
+    },
     {
       "frontendId": "242",
       "title": "Valid Anagram",
