@@ -5,7 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 13 | 15 | 0 |
+| 29 | 14 | 15 | 0 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-17 | 2 |
 | 2026-09-18 | 1 |
 | 2026-09-19 | 1 |
-| 2026-09-20 | 1 |
+| 2026-09-20 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 13 | 46% |
-| Linked List | 10 | 36% |
-| Two Pointers | 9 | 32% |
-| Hash Table | 8 | 29% |
-| Array | 5 | 18% |
-| Binary Search | 3 | 11% |
-| Math | 3 | 11% |
-| Matrix | 3 | 11% |
-| Sorting | 3 | 11% |
-| Stack | 3 | 11% |
+| String | 13 | 45% |
+| Linked List | 11 | 38% |
+| Two Pointers | 9 | 31% |
+| Hash Table | 8 | 28% |
+| Array | 5 | 17% |
+| Binary Search | 3 | 10% |
+| Math | 3 | 10% |
+| Matrix | 3 | 10% |
+| Recursion | 3 | 10% |
+| Sorting | 3 | 10% |
 
 ## Topics
 
@@ -66,13 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Hash Table](Topics/hash-table/) | 8 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 10 |
+| [Linked List](Topics/linked-list/) | 11 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
-| [Recursion](Topics/recursion/) | 2 |
+| [Recursion](Topics/recursion/) | 3 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 13 |
