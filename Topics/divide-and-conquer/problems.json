@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-09-20T06:09:16.192Z",
+  "updatedAt": "2026-09-20T11:40:11.259Z",
   "problems": [
     {
       "frontendId": "4",
@@ -42,7 +42,7 @@
           "filename": "0148-sort-list.cpp",
           "path": "0148-sort-list/0148-sort-list.cpp",
           "sha": "af953d6822cf8acab4cc2dc4537d3f682fa4ddb5",
-          "lastSyncedAt": "2026-09-20T06:09:16.192Z"
+          "lastSyncedAt": "2026-09-20T11:40:11.259Z"
         }
       ]
     },
