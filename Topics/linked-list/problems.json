@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-21T07:23:58.322Z",
+  "updatedAt": "2026-09-22T09:17:36.977Z",
   "problems": [
     {
       "frontendId": "2",
@@ -63,6 +63,26 @@
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
           "sha": "c64fc7249187d76f279a5194f11d0642f1326a29",
           "lastSyncedAt": "2026-09-20T08:44:06.853Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "86",
+      "title": "Partition List",
+      "slug": "partition-list",
+      "problemName": "0086-partition-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+      "folderPath": "0086-partition-list/",
+      "readmePath": "0086-partition-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0086-partition-list.cpp",
+          "path": "0086-partition-list/0086-partition-list.cpp",
+          "sha": "e85a0890ca0d2cb90fbcda0ac34907ab9b88c07f",
+          "lastSyncedAt": "2026-09-22T09:17:36.977Z"
         }
       ]
     },
