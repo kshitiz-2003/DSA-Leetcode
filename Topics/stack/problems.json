@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-16T11:08:41.664Z",
+  "updatedAt": "2026-09-23T10:53:36.011Z",
   "problems": [
     {
       "frontendId": "234",
@@ -23,6 +23,26 @@
           "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
           "sha": "0df6a0c52bfaf07abb4a6771ab3ce57444cb2fd6",
           "lastSyncedAt": "2026-09-16T11:08:41.664Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "445",
+      "title": "Add Two Numbers II",
+      "slug": "add-two-numbers-ii",
+      "problemName": "0445-add-two-numbers-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers-ii/",
+      "folderPath": "0445-add-two-numbers-ii/",
+      "readmePath": "0445-add-two-numbers-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0445-add-two-numbers-ii.cpp",
+          "path": "0445-add-two-numbers-ii/0445-add-two-numbers-ii.cpp",
+          "sha": "77d5af3cbed8402286424f9a03647503d10ab66b",
+          "lastSyncedAt": "2026-09-23T10:53:36.011Z"
         }
       ]
     },
