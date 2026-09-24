@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 32 | 14 | 18 | 0 |
+| 33 | 15 | 18 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 22 days | 22 days | 22 |
+| 23 days | 23 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-10 | 1 |
 | 2026-09-11 | 1 |
 | 2026-09-12 | 3 |
 | 2026-09-13 | 3 |
@@ -29,19 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-21 | 1 |
 | 2026-09-22 | 1 |
 | 2026-09-23 | 1 |
+| 2026-09-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 14 | 44% |
-| String | 13 | 41% |
-| Two Pointers | 10 | 31% |
-| Hash Table | 8 | 25% |
-| Array | 5 | 16% |
-| Math | 5 | 16% |
-| Recursion | 4 | 13% |
-| Stack | 4 | 13% |
+| Linked List | 15 | 45% |
+| String | 13 | 39% |
+| Two Pointers | 11 | 33% |
+| Hash Table | 9 | 27% |
+| Array | 5 | 15% |
+| Math | 5 | 15% |
+| Recursion | 4 | 12% |
+| Stack | 4 | 12% |
 | Binary Search | 3 | 9% |
 | Matrix | 3 | 9% |
 
@@ -63,10 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 8 |
+| [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 14 |
+| [Linked List](Topics/linked-list/) | 15 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 3 |
@@ -78,7 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [String](Topics/string/) | 13 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 10 |
+| [Two Pointers](Topics/two-pointers/) | 11 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
