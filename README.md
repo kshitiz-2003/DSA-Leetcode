@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 35 | 15 | 19 | 1 |
+| 36 | 15 | 19 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 25 days | 25 days | 25 |
+| 26 days | 26 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-13 | 3 |
 | 2026-09-14 | 3 |
 | 2026-09-15 | 1 |
 | 2026-09-16 | 1 |
@@ -29,21 +28,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
 | 2026-09-26 | 1 |
+| 2026-09-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 17 | 49% |
-| String | 13 | 37% |
-| Two Pointers | 12 | 34% |
-| Hash Table | 9 | 26% |
+| Linked List | 18 | 50% |
+| String | 13 | 36% |
+| Two Pointers | 12 | 33% |
+| Hash Table | 9 | 25% |
 | Array | 5 | 14% |
 | Math | 5 | 14% |
 | Recursion | 5 | 14% |
 | Stack | 4 | 11% |
-| Binary Search | 3 | 9% |
-| Matrix | 3 | 9% |
+| Binary Search | 3 | 8% |
+| Divide and Conquer | 3 | 8% |
 
 ## Topics
 
@@ -58,25 +58,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 17 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
+| [Linked List](Topics/linked-list/) | 18 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 3 |
-| [Merge Sort](Topics/merge-sort/) | 1 |
+| [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 13 |
 | [String Matching](Topics/string-matching/) | 1 |
+| [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
