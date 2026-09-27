@@ -4,8 +4,28 @@
     "slug": "merge-sort",
     "name": "Merge Sort"
   },
-  "updatedAt": "2026-09-20T11:40:11.259Z",
+  "updatedAt": "2026-09-27T09:47:16.935Z",
   "problems": [
+    {
+      "frontendId": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "problemName": "0023-merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "folderPath": "0023-merge-k-sorted-lists/",
+      "readmePath": "0023-merge-k-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0023-merge-k-sorted-lists.cpp",
+          "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.cpp",
+          "sha": "4b4382e801bad633231bde36eab373d731f8f233",
+          "lastSyncedAt": "2026-09-27T09:47:16.935Z"
+        }
+      ]
+    },
     {
       "frontendId": "148",
       "title": "Sort List",
