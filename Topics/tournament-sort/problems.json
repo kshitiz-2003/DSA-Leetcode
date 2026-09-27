@@ -4,7 +4,7 @@
     "slug": "tournament-sort",
     "name": "Tournament Sort"
   },
-  "updatedAt": "2026-09-27T09:47:16.935Z",
+  "updatedAt": "2026-09-27T09:48:01.499Z",
   "problems": [
     {
       "frontendId": "23",
@@ -22,7 +22,7 @@
           "filename": "0023-merge-k-sorted-lists.cpp",
           "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.cpp",
           "sha": "4b4382e801bad633231bde36eab373d731f8f233",
-          "lastSyncedAt": "2026-09-27T09:47:16.935Z"
+          "lastSyncedAt": "2026-09-27T09:48:01.499Z"
         }
       ]
     }
