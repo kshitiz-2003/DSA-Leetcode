@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-27T12:10:11.010Z",
+  "updatedAt": "2026-09-27T12:12:40.592Z",
   "problems": [
     {
       "frontendId": "23",
@@ -22,7 +22,7 @@
           "filename": "0023-merge-k-sorted-lists.cpp",
           "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.cpp",
           "sha": "4b4382e801bad633231bde36eab373d731f8f233",
-          "lastSyncedAt": "2026-09-27T12:10:11.010Z"
+          "lastSyncedAt": "2026-09-27T12:12:40.592Z"
         }
       ]
     },
