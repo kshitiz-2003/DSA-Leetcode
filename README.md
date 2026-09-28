@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 15 | 19 | 2 |
+| 37 | 15 | 20 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 26 days | 26 days | 26 |
+| 1 days | 26 days | 27 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-14 | 3 |
 | 2026-09-15 | 1 |
 | 2026-09-16 | 1 |
 | 2026-09-17 | 2 |
@@ -29,15 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-25 | 1 |
 | 2026-09-26 | 1 |
 | 2026-09-27 | 1 |
+| 2026-09-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 18 | 50% |
-| String | 13 | 36% |
-| Two Pointers | 12 | 33% |
-| Hash Table | 9 | 25% |
+| Linked List | 19 | 51% |
+| String | 13 | 35% |
+| Two Pointers | 12 | 32% |
+| Hash Table | 10 | 27% |
 | Array | 5 | 14% |
 | Math | 5 | 14% |
 | Recursion | 5 | 14% |
@@ -63,10 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 9 |
+| [Hash Table](Topics/hash-table/) | 10 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
-| [Linked List](Topics/linked-list/) | 18 |
+| [Linked List](Topics/linked-list/) | 19 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 3 |
