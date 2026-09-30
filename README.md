@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 37 | 15 | 20 | 2 |
+| 38 | 15 | 21 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 26 days | 27 |
+| 2 days | 26 days | 28 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-15 | 1 |
 | 2026-09-16 | 1 |
 | 2026-09-17 | 2 |
 | 2026-09-18 | 1 |
@@ -29,21 +28,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-26 | 1 |
 | 2026-09-27 | 1 |
 | 2026-09-29 | 1 |
+| 2026-09-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 19 | 51% |
-| String | 13 | 35% |
+| Linked List | 19 | 50% |
+| String | 14 | 37% |
 | Two Pointers | 12 | 32% |
-| Hash Table | 10 | 27% |
-| Array | 5 | 14% |
-| Math | 5 | 14% |
-| Recursion | 5 | 14% |
-| Stack | 4 | 11% |
+| Hash Table | 10 | 26% |
+| Array | 5 | 13% |
+| Math | 5 | 13% |
+| Recursion | 5 | 13% |
+| Stack | 5 | 13% |
 | Binary Search | 3 | 8% |
-| Divide and Conquer | 3 | 8% |
+| Bracket Sequences | 3 | 8% |
 
 ## Topics
 
@@ -54,7 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -74,8 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Sorting](Topics/sorting/) | 3 |
-| [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 13 |
+| [Stack](Topics/stack/) | 5 |
+| [String](Topics/string/) | 14 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
