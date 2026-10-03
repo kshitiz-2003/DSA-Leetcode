@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-25T07:33:22.439Z",
+  "updatedAt": "2026-10-03T08:50:58.062Z",
   "problems": [
     {
       "frontendId": "2",
@@ -63,6 +63,26 @@
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.cpp",
           "sha": "d9b14fe2db33775b50cbc12a05ce2339bc9d6a2e",
           "lastSyncedAt": "2026-09-25T07:33:22.439Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0050-powx-n.cpp",
+          "path": "0050-powx-n/0050-powx-n.cpp",
+          "sha": "be88db96ba47c00a8757cb0cc012fbda0e1679df",
+          "lastSyncedAt": "2026-10-03T08:50:58.062Z"
         }
       ]
     },
