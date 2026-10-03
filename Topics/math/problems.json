@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-23T10:53:36.011Z",
+  "updatedAt": "2026-10-03T08:50:58.062Z",
   "problems": [
     {
       "frontendId": "2",
@@ -63,6 +63,26 @@
           "path": "0013-roman-to-integer/0013-roman-to-integer.cpp",
           "sha": "1b857ea15c7bc03192574cc6ad2b207bbff52782",
           "lastSyncedAt": "2026-09-14T11:45:02.911Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0050-powx-n.cpp",
+          "path": "0050-powx-n/0050-powx-n.cpp",
+          "sha": "be88db96ba47c00a8757cb0cc012fbda0e1679df",
+          "lastSyncedAt": "2026-10-03T08:50:58.062Z"
         }
       ]
     },
