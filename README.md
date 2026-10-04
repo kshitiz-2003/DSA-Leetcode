@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 40 | 16 | 22 | 2 |
+| 41 | 16 | 23 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 26 days | 30 |
+| 2 days | 26 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-18 | 1 |
 | 2026-09-19 | 1 |
 | 2026-09-20 | 2 |
 | 2026-09-21 | 1 |
@@ -29,37 +28,38 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-30 | 1 |
 | 2026-10-01 | 1 |
 | 2026-10-03 | 1 |
+| 2026-10-04 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 19 | 48% |
-| String | 15 | 38% |
-| Two Pointers | 12 | 30% |
-| Hash Table | 10 | 25% |
+| Linked List | 19 | 46% |
+| String | 16 | 39% |
+| Two Pointers | 12 | 29% |
+| Hash Table | 10 | 24% |
 | Math | 6 | 15% |
 | Recursion | 6 | 15% |
 | Stack | 6 | 15% |
-| Array | 5 | 13% |
-| Bracket Sequences | 4 | 10% |
-| Binary Search | 3 | 8% |
+| Array | 5 | 12% |
+| Bracket Sequences | 5 | 12% |
+| Binary Search | 3 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 8 |
-| [Backtracking](Topics/backtracking/) | 0 |
+| [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 4 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 5 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
@@ -75,7 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Recursion](Topics/recursion/) | 6 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 6 |
-| [String](Topics/string/) | 15 |
+| [String](Topics/string/) | 16 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
