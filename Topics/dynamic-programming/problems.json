@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-04T17:33:37.037Z",
+  "updatedAt": "2026-10-04T17:57:39.221Z",
   "problems": [
     {
       "frontendId": "5",
@@ -42,7 +42,7 @@
           "filename": "0022-generate-parentheses.cpp",
           "path": "0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "93f8f7f7c7519179c11342e6a849b7478e29d5a2",
-          "lastSyncedAt": "2026-10-04T17:33:37.037Z"
+          "lastSyncedAt": "2026-10-04T17:57:39.221Z"
         }
       ]
     },
