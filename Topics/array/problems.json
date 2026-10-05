@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-14T11:46:24.556Z",
+  "updatedAt": "2026-10-05T16:36:26.310Z",
   "problems": [
     {
       "frontendId": "1",
@@ -83,6 +83,26 @@
           "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.cpp",
           "sha": "cd2198ef7127a268146bb159e60a77199b25b17f",
           "lastSyncedAt": "2026-09-14T11:46:24.556Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "0078-subsets/",
+      "readmePath": "0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0078-subsets.cpp",
+          "path": "0078-subsets/0078-subsets.cpp",
+          "sha": "b14bccfa46228e9abab4ac06afe50718920b4d9f",
+          "lastSyncedAt": "2026-10-05T16:36:26.310Z"
         }
       ]
     },
