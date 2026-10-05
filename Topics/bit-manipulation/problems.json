@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-05T16:36:26.310Z",
+  "updatedAt": "2026-10-05T16:56:44.756Z",
   "problems": [
     {
       "frontendId": "78",
@@ -22,7 +22,7 @@
           "filename": "0078-subsets.cpp",
           "path": "0078-subsets/0078-subsets.cpp",
           "sha": "b14bccfa46228e9abab4ac06afe50718920b4d9f",
-          "lastSyncedAt": "2026-10-05T16:36:26.310Z"
+          "lastSyncedAt": "2026-10-05T16:56:44.756Z"
         }
       ]
     }
