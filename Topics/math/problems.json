@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "math",
-    "name": "Math"
+    "name": "Math",
+    "tagId": "8"
   },
-  "updatedAt": "2026-10-08T19:33:43.920Z",
+  "updatedAt": "2026-10-09T20:14:15.806Z",
   "problems": [
     {
       "frontendId": "2",
@@ -123,6 +124,26 @@
           "path": "1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.cpp",
           "sha": "ed5c6d4f938387a88a23d91554612a1b5d09a7df",
           "lastSyncedAt": "2026-09-14T11:45:57.184Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1922",
+      "title": "Count Good Numbers",
+      "slug": "count-good-numbers",
+      "problemName": "1922-count-good-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-numbers/",
+      "folderPath": "1922-count-good-numbers/",
+      "readmePath": "1922-count-good-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1922-count-good-numbers.cpp",
+          "path": "1922-count-good-numbers/1922-count-good-numbers.cpp",
+          "sha": "019c259ba8db98710699ba88296d651733bce483",
+          "lastSyncedAt": "2026-10-09T20:14:15.806Z"
         }
       ]
     }
