@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "recursion",
-    "name": "Recursion"
+    "name": "Recursion",
+    "tagId": "31"
   },
-  "updatedAt": "2026-10-03T08:56:37.799Z",
+  "updatedAt": "2026-10-09T20:14:15.806Z",
   "problems": [
     {
       "frontendId": "2",
@@ -123,6 +124,26 @@
           "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
           "sha": "0df6a0c52bfaf07abb4a6771ab3ce57444cb2fd6",
           "lastSyncedAt": "2026-09-16T11:08:41.664Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1922",
+      "title": "Count Good Numbers",
+      "slug": "count-good-numbers",
+      "problemName": "1922-count-good-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-numbers/",
+      "folderPath": "1922-count-good-numbers/",
+      "readmePath": "1922-count-good-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1922-count-good-numbers.cpp",
+          "path": "1922-count-good-numbers/1922-count-good-numbers.cpp",
+          "sha": "019c259ba8db98710699ba88296d651733bce483",
+          "lastSyncedAt": "2026-10-09T20:14:15.806Z"
         }
       ]
     }
