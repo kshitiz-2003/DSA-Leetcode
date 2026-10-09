@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 42 | 16 | 24 | 2 |
+| 43 | 16 | 25 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 26 days | 32 |
+| 1 days | 26 days | 33 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-20 | 2 |
 | 2026-09-21 | 1 |
 | 2026-09-22 | 1 |
 | 2026-09-23 | 1 |
@@ -29,18 +28,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-03 | 1 |
 | 2026-10-04 | 1 |
 | 2026-10-05 | 1 |
+| 2026-10-10 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 19 | 45% |
-| String | 16 | 38% |
-| Two Pointers | 12 | 29% |
-| Hash Table | 10 | 24% |
+| Linked List | 19 | 44% |
+| String | 16 | 37% |
+| Two Pointers | 12 | 28% |
+| Hash Table | 10 | 23% |
+| Math | 7 | 16% |
+| Recursion | 7 | 16% |
 | Array | 6 | 14% |
-| Math | 6 | 14% |
-| Recursion | 6 | 14% |
 | Stack | 6 | 14% |
 | Bracket Sequences | 5 | 12% |
 | Binary Search | 3 | 7% |
@@ -68,11 +68,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 19 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 6 |
+| [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
-| [Recursion](Topics/recursion/) | 6 |
+| [Recursion](Topics/recursion/) | 7 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 6 |
 | [String](Topics/string/) | 16 |
