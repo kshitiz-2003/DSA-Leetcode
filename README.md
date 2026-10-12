@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 43 | 16 | 25 | 2 |
+| 44 | 17 | 25 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 26 days | 33 |
+| 1 days | 26 days | 34 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-21 | 1 |
 | 2026-09-22 | 1 |
 | 2026-09-23 | 1 |
 | 2026-09-24 | 1 |
@@ -29,27 +28,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-04 | 1 |
 | 2026-10-05 | 1 |
 | 2026-10-10 | 1 |
+| 2026-10-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 19 | 44% |
-| String | 16 | 37% |
-| Two Pointers | 12 | 28% |
+| Linked List | 19 | 43% |
+| String | 16 | 36% |
+| Two Pointers | 12 | 27% |
 | Hash Table | 10 | 23% |
+| Array | 7 | 16% |
 | Math | 7 | 16% |
 | Recursion | 7 | 16% |
-| Array | 6 | 14% |
 | Stack | 6 | 14% |
-| Bracket Sequences | 5 | 12% |
+| Bracket Sequences | 5 | 11% |
 | Binary Search | 3 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 9 |
+| [Array](Topics/array/) | 10 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
