@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "string",
-    "name": "String"
+    "name": "String",
+    "tagId": "10"
   },
-  "updatedAt": "2026-10-07T18:47:27.858Z",
+  "updatedAt": "2026-10-12T19:11:23.779Z",
   "problems": [
     {
       "frontendId": "5",
@@ -242,7 +243,7 @@
           "filename": "1021-remove-outermost-parentheses.cpp",
           "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
           "sha": "cd625f60659b76a2bc94d73bf3b74c41617d1d7f",
-          "lastSyncedAt": "2026-09-14T11:46:07.336Z"
+          "lastSyncedAt": "2026-10-12T19:11:23.779Z"
         }
       ]
     },
