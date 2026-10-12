@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "stack",
-    "name": "Stack"
+    "name": "Stack",
+    "tagId": "15"
   },
-  "updatedAt": "2026-10-01T15:33:22.260Z",
+  "updatedAt": "2026-10-12T19:11:23.779Z",
   "problems": [
     {
       "frontendId": "20",
@@ -82,7 +83,7 @@
           "filename": "1021-remove-outermost-parentheses.cpp",
           "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
           "sha": "cd625f60659b76a2bc94d73bf3b74c41617d1d7f",
-          "lastSyncedAt": "2026-09-14T11:46:07.336Z"
+          "lastSyncedAt": "2026-10-12T19:11:23.779Z"
         }
       ]
     },
