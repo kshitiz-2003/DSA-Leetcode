@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 44 | 17 | 25 | 2 |
+| 46 | 17 | 26 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 26 days | 34 |
+| 1 days | 26 days | 35 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-22 | 1 |
 | 2026-09-23 | 1 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
@@ -29,31 +28,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-05 | 1 |
 | 2026-10-10 | 1 |
 | 2026-10-12 | 1 |
+| 2026-10-14 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 19 | 43% |
-| String | 16 | 36% |
-| Two Pointers | 12 | 27% |
-| Hash Table | 10 | 23% |
-| Array | 7 | 16% |
-| Math | 7 | 16% |
-| Recursion | 7 | 16% |
-| Stack | 6 | 14% |
+| Linked List | 19 | 41% |
+| String | 16 | 35% |
+| Two Pointers | 12 | 26% |
+| Hash Table | 11 | 24% |
+| Array | 9 | 20% |
+| Math | 7 | 15% |
+| Recursion | 7 | 15% |
+| Stack | 6 | 13% |
 | Bracket Sequences | 5 | 11% |
-| Binary Search | 3 | 7% |
+| Sorting | 4 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 10 |
+| [Array](Topics/array/) | 12 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 5 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
@@ -63,8 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 10 |
+| [Greedy](Topics/greedy/) | 4 |
+| [Hash Table](Topics/hash-table/) | 11 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 19 |
@@ -74,7 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Recursion](Topics/recursion/) | 7 |
-| [Sorting](Topics/sorting/) | 3 |
+| [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 6 |
 | [String](Topics/string/) | 16 |
 | [String Matching](Topics/string-matching/) | 1 |
