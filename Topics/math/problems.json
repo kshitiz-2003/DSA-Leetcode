@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T18:52:20.883Z",
+  "updatedAt": "2026-10-15T10:17:02.717Z",
   "problems": [
     {
       "frontendId": "2",
@@ -144,6 +144,26 @@
           "path": "1922-count-good-numbers/1922-count-good-numbers.cpp",
           "sha": "019c259ba8db98710699ba88296d651733bce483",
           "lastSyncedAt": "2026-10-10T18:52:20.883Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3723",
+      "title": "Maximize Sum of Squares of Digits",
+      "slug": "maximize-sum-of-squares-of-digits",
+      "problemName": "3723-maximize-sum-of-squares-of-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits/",
+      "folderPath": "3723-maximize-sum-of-squares-of-digits/",
+      "readmePath": "3723-maximize-sum-of-squares-of-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3723-maximize-sum-of-squares-of-digits.cpp",
+          "path": "3723-maximize-sum-of-squares-of-digits/3723-maximize-sum-of-squares-of-digits.cpp",
+          "sha": "451d450551f2321a36604e6243d8610ce6e468c7",
+          "lastSyncedAt": "2026-10-15T10:17:02.717Z"
         }
       ]
     }
