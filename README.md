@@ -5,18 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 46 | 17 | 26 | 3 |
+| 48 | 18 | 27 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 26 days | 35 |
+| 3 days | 26 days | 37 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-23 | 1 |
-| 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
 | 2026-09-26 | 1 |
 | 2026-09-27 | 1 |
@@ -29,28 +27,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-10 | 1 |
 | 2026-10-12 | 1 |
 | 2026-10-14 | 2 |
+| 2026-10-15 | 1 |
+| 2026-10-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 19 | 41% |
-| String | 16 | 35% |
-| Two Pointers | 12 | 26% |
-| Hash Table | 11 | 24% |
-| Array | 9 | 20% |
-| Math | 7 | 15% |
+| Linked List | 19 | 40% |
+| String | 16 | 33% |
+| Hash Table | 12 | 25% |
+| Two Pointers | 12 | 25% |
+| Array | 10 | 21% |
+| Math | 8 | 17% |
 | Recursion | 7 | 15% |
 | Stack | 6 | 13% |
-| Bracket Sequences | 5 | 11% |
-| Sorting | 4 | 9% |
+| Bracket Sequences | 5 | 10% |
+| Greedy | 4 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 12 |
+| [Array](Topics/array/) | 13 |
 | [Backtracking](Topics/backtracking/) | 2 |
+| [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
@@ -63,17 +64,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 11 |
+| [Greedy](Topics/greedy/) | 5 |
+| [Hash Table](Topics/hash-table/) | 12 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 19 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Recursion](Topics/recursion/) | 7 |
+| [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 6 |
 | [String](Topics/string/) | 16 |
