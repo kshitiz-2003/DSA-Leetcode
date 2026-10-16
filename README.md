@@ -5,7 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 48 | 18 | 27 | 3 |
+| 49 | 18 | 28 | 3 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-12 | 1 |
 | 2026-10-14 | 2 |
 | 2026-10-15 | 1 |
-| 2026-10-16 | 1 |
+| 2026-10-16 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 19 | 40% |
+| Linked List | 19 | 39% |
 | String | 16 | 33% |
-| Hash Table | 12 | 25% |
-| Two Pointers | 12 | 25% |
-| Array | 10 | 21% |
-| Math | 8 | 17% |
-| Recursion | 7 | 15% |
-| Stack | 6 | 13% |
+| Hash Table | 12 | 24% |
+| Two Pointers | 12 | 24% |
+| Array | 11 | 22% |
+| Math | 8 | 16% |
+| Recursion | 7 | 14% |
+| Stack | 6 | 12% |
 | Bracket Sequences | 5 | 10% |
 | Greedy | 4 | 8% |
 
@@ -49,8 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 13 |
-| [Backtracking](Topics/backtracking/) | 2 |
+| [Array](Topics/array/) | 14 |
+| [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
