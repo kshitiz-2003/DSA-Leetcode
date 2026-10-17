@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 50 | 18 | 29 | 3 |
+| 51 | 18 | 30 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 26 days | 37 |
+| 4 days | 26 days | 38 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-25 | 1 |
 | 2026-09-26 | 1 |
 | 2026-09-27 | 1 |
 | 2026-09-29 | 1 |
@@ -29,32 +28,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-14 | 2 |
 | 2026-10-15 | 1 |
 | 2026-10-16 | 3 |
+| 2026-10-17 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 19 | 38% |
-| String | 16 | 32% |
-| Array | 12 | 24% |
+| Linked List | 19 | 37% |
+| String | 16 | 31% |
+| Array | 13 | 25% |
 | Hash Table | 12 | 24% |
 | Two Pointers | 12 | 24% |
 | Math | 8 | 16% |
 | Recursion | 7 | 14% |
 | Stack | 6 | 12% |
+| Backtracking | 5 | 10% |
 | Bracket Sequences | 5 | 10% |
-| Backtracking | 4 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 15 |
-| [Backtracking](Topics/backtracking/) | 4 |
+| [Array](Topics/array/) | 16 |
+| [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 5 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
