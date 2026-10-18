@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 51 | 18 | 30 | 3 |
+| 52 | 18 | 31 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 26 days | 38 |
+| 5 days | 26 days | 39 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-26 | 1 |
 | 2026-09-27 | 1 |
 | 2026-09-29 | 1 |
 | 2026-09-30 | 1 |
@@ -29,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-15 | 1 |
 | 2026-10-16 | 3 |
 | 2026-10-17 | 1 |
+| 2026-10-18 | 1 |
 
 ## Top Tags
 
@@ -36,21 +36,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- | ---: | ---: |
 | Linked List | 19 | 37% |
 | String | 16 | 31% |
-| Array | 13 | 25% |
-| Hash Table | 12 | 24% |
-| Two Pointers | 12 | 24% |
-| Math | 8 | 16% |
-| Recursion | 7 | 14% |
+| Array | 14 | 27% |
+| Hash Table | 12 | 23% |
+| Two Pointers | 12 | 23% |
+| Math | 8 | 15% |
+| Recursion | 7 | 13% |
+| Backtracking | 6 | 12% |
 | Stack | 6 | 12% |
-| Backtracking | 5 | 10% |
 | Bracket Sequences | 5 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 16 |
-| [Backtracking](Topics/backtracking/) | 5 |
+| [Array](Topics/array/) | 17 |
+| [Backtracking](Topics/backtracking/) | 6 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
