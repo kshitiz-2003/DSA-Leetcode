@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 52 | 18 | 31 | 3 |
+| 53 | 18 | 32 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 26 days | 39 |
+| 6 days | 26 days | 40 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-27 | 1 |
 | 2026-09-29 | 1 |
 | 2026-09-30 | 1 |
 | 2026-10-01 | 1 |
@@ -29,28 +28,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-16 | 3 |
 | 2026-10-17 | 1 |
 | 2026-10-18 | 1 |
+| 2026-10-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 19 | 37% |
-| String | 16 | 31% |
-| Array | 14 | 27% |
-| Hash Table | 12 | 23% |
+| Linked List | 19 | 36% |
+| String | 17 | 32% |
+| Array | 14 | 26% |
+| Hash Table | 13 | 25% |
 | Two Pointers | 12 | 23% |
 | Math | 8 | 15% |
+| Backtracking | 7 | 13% |
 | Recursion | 7 | 13% |
-| Backtracking | 6 | 12% |
-| Stack | 6 | 12% |
-| Bracket Sequences | 5 | 10% |
+| Stack | 6 | 11% |
+| Bracket Sequences | 5 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 17 |
-| [Backtracking](Topics/backtracking/) | 6 |
+| [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -65,7 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 5 |
-| [Hash Table](Topics/hash-table/) | 12 |
+| [Hash Table](Topics/hash-table/) | 13 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 19 |
@@ -78,7 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 6 |
-| [String](Topics/string/) | 16 |
+| [String](Topics/string/) | 17 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
