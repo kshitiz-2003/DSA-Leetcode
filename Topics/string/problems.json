@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-19T17:49:20.558Z",
+  "updatedAt": "2026-10-20T17:27:53.226Z",
   "problems": [
     {
       "frontendId": "5",
@@ -144,6 +144,26 @@
           "path": "0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "93f8f7f7c7519179c11342e6a849b7478e29d5a2",
           "lastSyncedAt": "2026-10-04T17:58:07.230Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "131",
+      "title": "Palindrome Partitioning",
+      "slug": "palindrome-partitioning",
+      "problemName": "0131-palindrome-partitioning",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning/",
+      "folderPath": "0131-palindrome-partitioning/",
+      "readmePath": "0131-palindrome-partitioning/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0131-palindrome-partitioning.cpp",
+          "path": "0131-palindrome-partitioning/0131-palindrome-partitioning.cpp",
+          "sha": "be3054fcfb7791a9d0c4a62fecf237f9b92a3dfb",
+          "lastSyncedAt": "2026-10-20T17:27:53.226Z"
         }
       ]
     },
