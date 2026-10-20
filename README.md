@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 53 | 18 | 32 | 3 |
+| 54 | 18 | 33 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 26 days | 40 |
+| 7 days | 26 days | 41 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-29 | 1 |
 | 2026-09-30 | 1 |
 | 2026-10-01 | 1 |
 | 2026-10-03 | 1 |
@@ -29,18 +28,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-17 | 1 |
 | 2026-10-18 | 1 |
 | 2026-10-19 | 1 |
+| 2026-10-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 19 | 36% |
-| String | 17 | 32% |
+| Linked List | 19 | 35% |
+| String | 18 | 33% |
 | Array | 14 | 26% |
-| Hash Table | 13 | 25% |
-| Two Pointers | 12 | 23% |
+| Hash Table | 13 | 24% |
+| Two Pointers | 12 | 22% |
+| Backtracking | 8 | 15% |
 | Math | 8 | 15% |
-| Backtracking | 7 | 13% |
 | Recursion | 7 | 13% |
 | Stack | 6 | 11% |
 | Bracket Sequences | 5 | 9% |
@@ -50,7 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 17 |
-| [Backtracking](Topics/backtracking/) | 7 |
+| [Backtracking](Topics/backtracking/) | 8 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -60,7 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
@@ -78,7 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 6 |
-| [String](Topics/string/) | 17 |
+| [String](Topics/string/) | 18 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
