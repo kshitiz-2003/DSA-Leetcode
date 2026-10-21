@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 54 | 18 | 33 | 3 |
+| 55 | 18 | 34 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 26 days | 41 |
+| 8 days | 26 days | 42 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-30 | 1 |
 | 2026-10-01 | 1 |
 | 2026-10-03 | 1 |
 | 2026-10-04 | 1 |
@@ -29,17 +28,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-18 | 1 |
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
+| 2026-10-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Linked List | 19 | 35% |
-| String | 18 | 33% |
-| Array | 14 | 26% |
+| String | 19 | 35% |
+| Array | 15 | 27% |
 | Hash Table | 13 | 24% |
 | Two Pointers | 12 | 22% |
-| Backtracking | 8 | 15% |
+| Backtracking | 9 | 16% |
 | Math | 8 | 15% |
 | Recursion | 7 | 13% |
 | Stack | 6 | 11% |
@@ -49,8 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 17 |
-| [Backtracking](Topics/backtracking/) | 8 |
+| [Array](Topics/array/) | 18 |
+| [Backtracking](Topics/backtracking/) | 9 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
+| [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Enumeration](Topics/enumeration/) | 1 |
@@ -71,14 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Linked List](Topics/linked-list/) | 19 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 8 |
-| [Matrix](Topics/matrix/) | 3 |
+| [Matrix](Topics/matrix/) | 4 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Recursion](Topics/recursion/) | 7 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 6 |
-| [String](Topics/string/) | 18 |
+| [String](Topics/string/) | 19 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
