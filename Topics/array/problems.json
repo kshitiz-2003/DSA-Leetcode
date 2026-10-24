@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:33:33.165Z",
+  "updatedAt": "2026-10-24T21:02:58.282Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "0040-combination-sum-ii/0040-combination-sum-ii.cpp",
           "sha": "6b5a6c57278c520039c2cf22b6e938a6232c96c3",
           "lastSyncedAt": "2026-10-16T13:40:30.520Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "51",
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "problemName": "0051-n-queens",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+      "folderPath": "0051-n-queens/",
+      "readmePath": "0051-n-queens/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0051-n-queens.cpp",
+          "path": "0051-n-queens/0051-n-queens.cpp",
+          "sha": "109c0a98884803b96ffab2b327579a897878333a",
+          "lastSyncedAt": "2026-10-24T21:02:58.282Z"
         }
       ]
     },
