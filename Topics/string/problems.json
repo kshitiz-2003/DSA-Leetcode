@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-21T09:59:44.584Z",
+  "updatedAt": "2026-10-29T20:12:14.677Z",
   "problems": [
     {
       "frontendId": "5",
@@ -384,6 +384,26 @@
           "path": "1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.cpp",
           "sha": "ed5c6d4f938387a88a23d91554612a1b5d09a7df",
           "lastSyncedAt": "2026-09-14T11:45:57.184Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2409",
+      "title": "Count Days Spent Together",
+      "slug": "count-days-spent-together",
+      "problemName": "2409-count-days-spent-together",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
+      "folderPath": "2409-count-days-spent-together/",
+      "readmePath": "2409-count-days-spent-together/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2409-count-days-spent-together.cpp",
+          "path": "2409-count-days-spent-together/2409-count-days-spent-together.cpp",
+          "sha": "815f6ec0aa8e125cc0b0af0284092332618c3af1",
+          "lastSyncedAt": "2026-10-29T20:12:14.677Z"
         }
       ]
     }
