@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T19:25:56.692Z",
+  "updatedAt": "2026-10-30T04:48:36.271Z",
   "problems": [
     {
       "frontendId": "1",
@@ -264,6 +264,26 @@
           "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.cpp",
           "sha": "5336308fadcc6ebb9b79d8b3c240fb9545229245",
           "lastSyncedAt": "2026-09-13T18:10:42.631Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "643",
+      "title": "Maximum Average Subarray I",
+      "slug": "maximum-average-subarray-i",
+      "problemName": "0643-maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+      "folderPath": "0643-maximum-average-subarray-i/",
+      "readmePath": "0643-maximum-average-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0643-maximum-average-subarray-i.cpp",
+          "path": "0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.cpp",
+          "sha": "1c4ada7112176674790eb11000b415273ccd2f15",
+          "lastSyncedAt": "2026-10-30T04:48:36.271Z"
         }
       ]
     },
