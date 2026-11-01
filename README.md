@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 61 | 21 | 36 | 4 |
+| 62 | 21 | 36 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 26 days | 46 |
+| 1 days | 26 days | 47 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-10 | 1 |
 | 2026-10-12 | 1 |
 | 2026-10-14 | 2 |
 | 2026-10-15 | 1 |
@@ -29,29 +28,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-26 | 1 |
 | 2026-10-27 | 2 |
 | 2026-10-30 | 2 |
+| 2026-11-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 20 | 33% |
-| Array | 19 | 31% |
+| Array | 20 | 32% |
+| String | 20 | 32% |
 | Linked List | 19 | 31% |
-| Hash Table | 13 | 21% |
-| Two Pointers | 12 | 20% |
-| Backtracking | 10 | 16% |
+| Hash Table | 14 | 23% |
+| Two Pointers | 12 | 19% |
+| Backtracking | 11 | 18% |
 | Math | 9 | 15% |
+| Matrix | 7 | 11% |
 | Recursion | 7 | 11% |
-| Matrix | 6 | 10% |
 | Stack | 6 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 22 |
-| [Backtracking](Topics/backtracking/) | 10 |
+| [Algorithm X](Topics/algorithm-x/) | 2 |
+| [Array](Topics/array/) | 23 |
+| [Backtracking](Topics/backtracking/) | 11 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
+| [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
@@ -68,13 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 5 |
-| [Hash Table](Topics/hash-table/) | 13 |
+| [Hash Table](Topics/hash-table/) | 14 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 19 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 9 |
-| [Matrix](Topics/matrix/) | 6 |
+| [Matrix](Topics/matrix/) | 7 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Recursion](Topics/recursion/) | 7 |
