@@ -5,8 +5,28 @@
     "name": "Algorithm X",
     "tagId": "95488"
   },
-  "updatedAt": "2026-10-24T21:02:58.282Z",
+  "updatedAt": "2026-11-01T19:22:57.689Z",
   "problems": [
+    {
+      "frontendId": "37",
+      "title": "Sudoku Solver",
+      "slug": "sudoku-solver",
+      "problemName": "0037-sudoku-solver",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+      "folderPath": "0037-sudoku-solver/",
+      "readmePath": "0037-sudoku-solver/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0037-sudoku-solver.cpp",
+          "path": "0037-sudoku-solver/0037-sudoku-solver.cpp",
+          "sha": "9daf2a9326bc34600f0ccd5ff0aa2a7e26794c2b",
+          "lastSyncedAt": "2026-11-01T19:22:57.689Z"
+        }
+      ]
+    },
     {
       "frontendId": "51",
       "title": "N-Queens",
