@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-30T04:48:36.271Z",
+  "updatedAt": "2026-11-01T19:22:57.689Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.cpp",
           "sha": "1de5b3f11be6d5bbec97eef269857904af6009d7",
           "lastSyncedAt": "2026-09-14T11:45:50.766Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "37",
+      "title": "Sudoku Solver",
+      "slug": "sudoku-solver",
+      "problemName": "0037-sudoku-solver",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+      "folderPath": "0037-sudoku-solver/",
+      "readmePath": "0037-sudoku-solver/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0037-sudoku-solver.cpp",
+          "path": "0037-sudoku-solver/0037-sudoku-solver.cpp",
+          "sha": "9daf2a9326bc34600f0ccd5ff0aa2a7e26794c2b",
+          "lastSyncedAt": "2026-11-01T19:22:57.689Z"
         }
       ]
     },
