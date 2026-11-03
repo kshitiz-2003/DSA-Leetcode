@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 62 | 21 | 36 | 5 |
+| 63 | 21 | 36 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 26 days | 47 |
+| 1 days | 26 days | 48 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-12 | 1 |
 | 2026-10-14 | 2 |
 | 2026-10-15 | 1 |
 | 2026-10-16 | 3 |
@@ -29,18 +28,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-27 | 2 |
 | 2026-10-30 | 2 |
 | 2026-11-02 | 1 |
+| 2026-11-04 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
+| String | 21 | 33% |
 | Array | 20 | 32% |
-| String | 20 | 32% |
-| Linked List | 19 | 31% |
-| Hash Table | 14 | 23% |
+| Linked List | 19 | 30% |
+| Hash Table | 14 | 22% |
+| Backtracking | 12 | 19% |
 | Two Pointers | 12 | 19% |
-| Backtracking | 11 | 18% |
-| Math | 9 | 15% |
+| Math | 10 | 16% |
 | Matrix | 7 | 11% |
 | Recursion | 7 | 11% |
 | Stack | 6 | 10% |
@@ -51,7 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
 | [Array](Topics/array/) | 23 |
-| [Backtracking](Topics/backtracking/) | 11 |
+| [Backtracking](Topics/backtracking/) | 12 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -74,7 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 19 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 9 |
+| [Math](Topics/math/) | 10 |
 | [Matrix](Topics/matrix/) | 7 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
@@ -83,7 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 6 |
-| [String](Topics/string/) | 20 |
+| [String](Topics/string/) | 21 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
