@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-29T20:12:14.677Z",
+  "updatedAt": "2026-11-03T19:24:07.078Z",
   "problems": [
     {
       "frontendId": "2",
@@ -84,6 +84,26 @@
           "path": "0050-powx-n/0050-powx-n.cpp",
           "sha": "be88db96ba47c00a8757cb0cc012fbda0e1679df",
           "lastSyncedAt": "2026-10-10T18:45:58.039Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "282",
+      "title": "Expression Add Operators",
+      "slug": "expression-add-operators",
+      "problemName": "0282-expression-add-operators",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/expression-add-operators/",
+      "folderPath": "0282-expression-add-operators/",
+      "readmePath": "0282-expression-add-operators/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0282-expression-add-operators.cpp",
+          "path": "0282-expression-add-operators/0282-expression-add-operators.cpp",
+          "sha": "59b0635a2a45053171d3082552fd6ae4a12de0d5",
+          "lastSyncedAt": "2026-11-03T19:24:07.078Z"
         }
       ]
     },
