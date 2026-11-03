@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-02T18:05:39.633Z",
+  "updatedAt": "2026-11-03T19:24:07.078Z",
   "problems": [
     {
       "frontendId": "17",
@@ -224,6 +224,26 @@
           "path": "0216-combination-sum-iii/0216-combination-sum-iii.cpp",
           "sha": "44b3acc9fe21f070cf52b5b0cf341f52f1d5f417",
           "lastSyncedAt": "2026-10-18T14:20:51.633Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "282",
+      "title": "Expression Add Operators",
+      "slug": "expression-add-operators",
+      "problemName": "0282-expression-add-operators",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/expression-add-operators/",
+      "folderPath": "0282-expression-add-operators/",
+      "readmePath": "0282-expression-add-operators/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0282-expression-add-operators.cpp",
+          "path": "0282-expression-add-operators/0282-expression-add-operators.cpp",
+          "sha": "59b0635a2a45053171d3082552fd6ae4a12de0d5",
+          "lastSyncedAt": "2026-11-03T19:24:07.078Z"
         }
       ]
     }
