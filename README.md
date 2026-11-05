@@ -5,17 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 63 | 21 | 36 | 6 |
+| 64 | 22 | 36 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 26 days | 48 |
+| 1 days | 26 days | 49 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-14 | 2 |
 | 2026-10-15 | 1 |
 | 2026-10-16 | 3 |
 | 2026-10-17 | 1 |
@@ -29,31 +28,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-30 | 2 |
 | 2026-11-02 | 1 |
 | 2026-11-04 | 1 |
+| 2026-11-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
+| Array | 21 | 33% |
 | String | 21 | 33% |
-| Array | 20 | 32% |
 | Linked List | 19 | 30% |
 | Hash Table | 14 | 22% |
+| Two Pointers | 13 | 20% |
 | Backtracking | 12 | 19% |
-| Two Pointers | 12 | 19% |
 | Math | 10 | 16% |
 | Matrix | 7 | 11% |
 | Recursion | 7 | 11% |
-| Stack | 6 | 10% |
+| Stack | 6 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 23 |
+| [Array](Topics/array/) | 24 |
 | [Backtracking](Topics/backtracking/) | 12 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
-| [Binary Search](Topics/binary-search/) | 6 |
+| [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 5 |
@@ -81,13 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Recursion](Topics/recursion/) | 7 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 4 |
+| [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 6 |
 | [String](Topics/string/) | 21 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 12 |
+| [Two Pointers](Topics/two-pointers/) | 13 |
 | [Union-Find](Topics/union-find/) | 2 |
 <!---LeetHub Summary End-->
 
